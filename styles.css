@@ -1,0 +1,33 @@
+* {
+    background-color: rgb(53, 50, 50);
+}
+
+.demo {
+    display: none;
+
+}
+
+.btn {
+    color: white;
+    background-color: rgb(17, 17, 73);
+    border-color: rgb(17, 17, 73);
+}
+
+.message {
+    color: wheat;
+}
+
+.pin {
+    color: wheat;
+}
+
+h2 {
+    color: beige;
+    margin-left: 550px;
+    margin-top: 100px;
+}
+
+.all {
+    margin-left: 600px;
+    margin-top: 100px;
+}
